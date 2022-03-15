@@ -12,3 +12,6 @@ In Class 78, We Have Designed The Iss Location Screen To Show The Location Of Th
 PRO-C79: STELLAR STAGE 4
 In This Project, You Will Create A Similar “Daily Pic” Screen For The Stellar App.
 ![image](https://user-images.githubusercontent.com/72172315/156940927-418cae97-d84d-47c8-8802-bd1d9f587df6.png)
+
+PRO-C80: STELLAR STAGE 5
+In This Project You’ll Design The Spacecraft Screen To Showcase Different Spacecrafts.
